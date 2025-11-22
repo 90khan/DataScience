@@ -1,3 +1,9 @@
+# 🤖 Machine Learning, Deep Learning & NLP Projects
+
+Welcome to my **Machine Learning, Deep Learning, and Natural Language Processing (NLP)** repository! This is a curated collection of **educational notebooks and practical projects** designed to help learners and practitioners master AI concepts, implement models, and gain hands-on experience with real-world datasets.
+
+---
+
 ## 🌟 What You’ll Discover Here
 
 ### 1️⃣ **Machine Learning**
